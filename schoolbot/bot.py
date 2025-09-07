@@ -19,7 +19,7 @@ logging.basicConfig(
 logging.getLogger("aiohttp").setLevel(logging.WARNING)
 logging.getLogger("balethon").setLevel(logging.WARNING)
 
-TOKEN = "1952224317:fzOmvajCA3B5iQ6ObL5bJymejxfqMwTbgN9ychBg"
+TOKEN = "YOUR_TOKEN_HERE"
 client = Client(TOKEN)
 
 ROLES = {
@@ -209,3 +209,4 @@ if __name__ == "__main__":
         client.run()
     except Exception as e:
         logging.critical(f"❌ خطای بحرانی در اجرای کلاینت: {e}")
+
