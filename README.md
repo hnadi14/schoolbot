@@ -34,27 +34,27 @@
 
 ![معرفی](https://github.com/hnadi14/schoolbot/blob/main/schoolbot/img/Gemini_Generated_Image_ibui6dibui6dibui.png)
 
-![پنل مدیر]([png](https://github.com/hnadi14/schoolbot/blob/main/schoolbot/img/Gemini_Generated_Image_lmb8k9lmb8k9lmb8.png))
+![پنل مدیر](https://github.com/hnadi14/schoolbot/blob/main/schoolbot/img/Gemini_Generated_Image_lmb8k9lmb8k9lmb8.png)
 
 صفحه گزارش مدیر
 تعریف دوره های مختلف کارنامه(ماهانه، فصلی، ترمی و ...)
-![گزارش مدیر]([png](https://github.com/hnadi14/schoolbot/blob/main/schoolbot/img/tmpwqezxu1k.png))
+![گزارش مدیر](https://github.com/hnadi14/schoolbot/blob/main/schoolbot/img/tmpwqezxu1k.png)
 
  آنالیز داده محور جهت بهبود تدریس دبیران همراه با نمودار
-![دبیر]([png](https://github.com/hnadi14/schoolbot/blob/main/schoolbot/img/aa7c049f-d1de-4941-ad82-a23910d9fe31.png))
+![دبیر](https://github.com/hnadi14/schoolbot/blob/main/schoolbot/img/aa7c049f-d1de-4941-ad82-a23910d9fe31.png)
 
 
 گزارش های مفصل همراه با نمودارهای تحلیل برای دانش آموزان و نظارت والدین
-![دانش اموز]([png](https://github.com/hnadi14/schoolbot/blob/main/schoolbot/img/74585274-e217-4805-b8a6-e2d7926d686b.png))
+![دانش اموز](https://github.com/hnadi14/schoolbot/blob/main/schoolbot/img/74585274-e217-4805-b8a6-e2d7926d686b.png)
 
 
 
 بررسی عملکرد دانش اموز در ساحت های شش گانه سند توسعه
-![ساحت ها]([png](https://github.com/hnadi14/schoolbot/blob/main/schoolbot/img/7250eebf-9689-4fb5-a883-167171ed4a9f.png))
+![ساحت ها](https://github.com/hnadi14/schoolbot/blob/main/schoolbot/img/7250eebf-9689-4fb5-a883-167171ed4a9f.png)
 
 
 عملکرد دانش اموز در طول سال تحصیلی بر اساس معدل و بر اساس هر درس و مقایسه با کلاس
-![دانش اموز]([png](https://github.com/hnadi14/schoolbot/blob/main/schoolbot/img/8ecc7afa-fa32-41d4-820c-b32a1ef57c32.png))
+![دانش اموز](https://github.com/hnadi14/schoolbot/blob/main/schoolbot/img/8ecc7afa-fa32-41d4-820c-b32a1ef57c32.png)
 
 ![درس ها](https://github.com/hnadi14/schoolbot/blob/main/schoolbot/img/1ca9df8a-2d44-4f44-9b01-32824f0df713.png)
 
